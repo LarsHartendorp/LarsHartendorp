@@ -6,9 +6,10 @@ Hi there! My name is Lars Hartendorp and I'm a second-year Bachelor student of I
 
 ## Finished Projects
 
-- [WebDevelopment 1](https://github.com/LarsHartendorp/WebDevEindopdracht)): Pokémon database - with the PokéAPI
+- [WebDevelopment 1](https://github.com/LarsHartendorp/WebDevEindopdracht): Pokémon database - with the PokéAPI. 
+This is also hosted at: https://pokemondatabasewebdev.000webhostapp.com/
 - [WebMarkup](Webmarkup-assessment): Small HTML and CSS project
-- [Project 3](https://github.com/lhartendorp/project3): Description of project 3
+- [Chapeau](https://github.com/LarsHartendorp/ChapeauV2): Group Project about restaurant ordering system
 
 ## Currently learning
 
