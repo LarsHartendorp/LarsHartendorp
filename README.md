@@ -1,5 +1,8 @@
 ### <span style="color: blue">Lars Hartendorp</span>
-Hi there! My name is Lars Hartendorp and I'm a second-year Bachelor student of Informatica at Inholland Haarlem. Welcome to my repository! Here you can find some of my latest projects and assignments, as well as some of my personal interests.
+Hi there! My name is [Lars Hartendorp][1] and I'm a second-year Bachelor student of Informatica at Inholland Haarlem. Welcome to my repository! Here you can find some of my latest projects and assignments, as well as some of my personal interests.
+
+[1]: #name
+
 
 
 ## Projects
