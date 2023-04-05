@@ -28,4 +28,4 @@ In my free time, I enjoy:
 - Learning new programming languages
 - Riding my Yamaha R6
 
-Feel free to explore my repository and contact me if you have any questions or feedback!"
+Feel free to explore my repository and contact me if you have any questions or feedback!
