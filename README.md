@@ -1,8 +1,6 @@
 ### Lars Hartendorp
 Hi there! My name is Lars Hartendorp and I'm a second-year Bachelor student of Informatica at Inholland Haarlem. Welcome to my repository! Here you can find some of my latest projects and assignments, as well as some of my personal interests.
 
-## Current projects
-- 🔭 I’m currently working on WebDevelopment 2, where I will create a vacancy website. 
 
 ## Finished Projects
 
