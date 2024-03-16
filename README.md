@@ -1,5 +1,5 @@
 ### Lars Hartendorp
-Hi there! My name is Lars Hartendorp and I'm a second-year Bachelor student of Informatica at Inholland Haarlem. Welcome to my repository! Here you can find some of my latest projects and assignments, as well as some of my personal interests.
+Hi there! My name is Lars Hartendorp and I'm a junior year Bachelor student of Informatica at Inholland Haarlem. Welcome to my repository! Here you can find some of my latest projects and assignments, as well as some of my personal interests.
 
 
 ## Finished Projects
@@ -10,6 +10,12 @@ This is also hosted at: https://pokemondatabasewebdev.000webhostapp.com/
 - [Chapeau](https://github.com/LarsHartendorp/ChapeauV2): School Group Project about restaurant ordering system
 
 ## Currently learning :book:
+
+# Minor: Big Data & AI
+Machine Learning
+- Regression
+- Classification
+- Recommendation
 
 # front end
 - Vue.JS
