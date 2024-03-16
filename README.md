@@ -17,6 +17,8 @@ Machine Learning
 - Classification
 - Recommendation
 
+Take a look (https://github.com/LarsHartendorp/datamining)
+
 # front end
 - Vue.JS
 
